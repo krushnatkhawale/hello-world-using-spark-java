@@ -9,10 +9,12 @@ Spark Framework is a simple and expressive Java/Kotlin web framework DSL built f
 
 ### First add sparkjava dependency
 
-``` implementation "com.sparkjava:spark-core:2.9.3" ```
+```groovy
+ implementation "com.sparkjava:spark-core:2.9.3" 
+ ```
 
 ### Write an endpoint
-```
+```java
 import static spark.Spark.get;
 
 public class Api {
@@ -34,7 +36,7 @@ Output:
 
 The web server port can be changed by using **port** method as follows,
 
-```aidl
+```java
 import static spark.Spark.get;
 import static spark.Spark.port;
 
