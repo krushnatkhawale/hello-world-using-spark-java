@@ -2,7 +2,7 @@
 
 ## A web applications micro framework in Kotlin and Java 8 with minimal effort
 
-Spark Framework is a simple and expressive Java/Kotlin web framework DSL built for rapid development. Sparks intention is to provide an alternative for Kotlin/Java developers that want to develop their web applications as expressive as possible and with minimal boilerplate. With a clear philosophy Spark is designed not only to make you more productive, but also to make your code better under the influence of Spark’s sleek, declarative and expressive syntax. [More info](https://sparkjava.com/)
+Spark Framework is a simple and expressive Java/Kotlin web framework DSL built for rapid development. Sparks intention is to provide an alternative for Kotlin/Java developers that want to develop their web applications as expressive as possible and with minimal boilerplate. With a clear philosophy Spark is designed not only to make you more productive, but also to make your code better under the influence of Spark’s sleek, declarative and expressive syntax. <a href="https://sparkjava.com" target="_blank">[More info]</a>
 
 ## Getting started (with Java and gradle)
 
@@ -54,8 +54,8 @@ Output:
 
 ![!Custom port number](images/custom-port.PNG)
 
-Here is a [example](https://github.com/krushnatkhawale/project-gallery-using-sparkjava) of a microservice with CRUD operations using sparkjava which uses H2 database which I hope will be useful if you would like to get started with Spark java framework.
+Here is a <a href="https://github.com/krushnatkhawale/project-gallery-using-sparkjava" target="_blank"> example </a> of a microservice with CRUD operations using sparkjava which uses H2 database which I hope will be useful if you would like to get started with Spark java framework.
 
 ### References
 
-- [https://sparkjava.com](https://sparkjava.com)
+- <a href="https://sparkjava.com" target="_blank"> https://sparkjava.com </a>
